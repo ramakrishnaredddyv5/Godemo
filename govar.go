@@ -9,7 +9,7 @@ func main() {
 	var roll_num int
 	roll_num = 25
 	fmt.Println("my roll number is:", roll_num)
-	var name string = "i'm irosouji"
+	var name string = "i'm souji"
 	fmt.Println("my name is:", name)
 
 	//2.by using short hand method:
